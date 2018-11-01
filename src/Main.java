@@ -11,7 +11,7 @@ public class Main {
             theStack.push(i);
         }
 
-        for(int i=0; i<16; i++) {
+        for(int i=0; i<18; i++) {
             System.out.println(theStack.pop());
         }
     }
